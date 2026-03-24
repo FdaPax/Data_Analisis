@@ -52,4 +52,3 @@ construido mediante transformaciones en Power Query.
 ## Autora
 
 **Fernanda Paz**
-Universidad Mayor — Curso de Análisis de Datos
